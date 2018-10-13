@@ -7,7 +7,7 @@ Atari computers have 16 default graphics modes (mixable).
 Program's REMarks help to understand Atari's computers and Basic peculiarities.
 
 
-Atari 8-bit computers are Atari 400, 800 (1979), 1200XL (1983), 600XL, 800XL (1983), 65XE, 800XE, 130XE (1985), XEGS (1987).
+Atari 8-bit computers are Atari 400, 800 (1979), 1200XL, 600XL, 800XL (1983), 65XE, 800XE, 130XE (1985), XEGS (1987).
 
 SPECS:
 
