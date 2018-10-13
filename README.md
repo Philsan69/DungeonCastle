@@ -1,7 +1,7 @@
 # Dungeon Castle
 A simple tutorial template to make games with 1979 Atari 8-bit computers Basic.
 
-The program uses graphics mode 2, a character based 20x12 - 5 colors mode, and redefines character set.
+The program uses graphics mode 2, a character based 20x12 - 5 colors mode and redefines character set.
 Atari computers have 16 default graphics modes (mixable).
 
 Program's REMarks help to understand Atari's computers and Basic peculiarities.
